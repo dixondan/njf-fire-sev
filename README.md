@@ -13,6 +13,8 @@ Visualise fire severity
 --------
 A Google Earth Engine application to visualise predicted fire severity on prescribed burns and wildfires from 2005 to 2020 in the Northern Jarrah Forest (link)
 
+Here have a gif the same size as the window above showing how to use the ee mapping tool
+
 
 Data
 --------
