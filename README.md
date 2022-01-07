@@ -6,8 +6,6 @@ Overview
 This repository is associated with the paper "Regional-scale fire severity mapping of *Eucalyptus* forests with the Landsat archive" in the journal *Remote Sensing of Environment* from 2022. 
 
 ![This is an image](figs/graph-abs-wlogos2.png)
-<img src="figs/graph-abs-wlogos2.png" width="100" height="100">
-
 
 Visualise fire severity
 --------
