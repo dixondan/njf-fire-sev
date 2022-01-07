@@ -24,7 +24,16 @@ Analyse
 --------
    -  Accessing fire data through Earth Engine image collection + explore, plot and map a fire (access_fire_ee.ipynb)
    -  Quantify the area of each fire severity class by fire type over time (quantify_area.ipynb)
-   -  IN PROGRESS Apply the model to your own fire polygon
 
+Coming soon
+--------
+   -  Apply the model to your own fire polygon + export to QGIS
 
+Cite
+--------
+Link
+
+Questions
+--------
+Email: danieldixon@research.uwa.edu.au
 
