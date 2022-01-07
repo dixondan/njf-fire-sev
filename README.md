@@ -23,6 +23,7 @@ Data
 Analyse
 --------
    -  Accessing fire data through Earth Engine image collection + explore, plot and map a fire (Google Colab)
+   -  Accessing fire data locally
    -  Apply the model to your own fire polygon (In progress)
 
 
