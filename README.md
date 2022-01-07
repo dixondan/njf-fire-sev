@@ -1,6 +1,5 @@
-(#Overview-m)
-[create an anchor](#anchors-in-markdown)
-
+Overview
+--------
 
 This repository is associated with the paper "Regional-scale fire severity mapping of *Eucalyptus* forests with the Landsat archive" in the journal *Remote Sensing of Environment* from 2022. 
 
