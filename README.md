@@ -7,6 +7,10 @@ This repository is associated with the paper "Regional-scale fire severity mappi
 
 ![This is an image](figs/graph-abs2.png)
 
+<p align="center">
+  <img src="figs/graph-abs2.png" />
+</p>
+
 Visualise fire severity
 --------
 A Google Earth Engine application to visualise predicted fire severity on prescribed burns and wildfires from 2005 to 2020 in the Northern Jarrah Forest (link)
