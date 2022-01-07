@@ -14,8 +14,7 @@ A Google Earth Engine application to visualise predicted fire severity on prescr
 
 Data
 --------
-
-  - Direct download predicted fire severity rasters for each fire at 30 x 30 m resolution
+  - Download predicted fire severity rasters for each fire at 30 x 30 m resolution
   - Shapefile to associate each predicted raster and burn perimeter
   - Tables containing the following:
     - Train/test fire info -> predictors and response variable for training random forest (CSV)
@@ -23,7 +22,7 @@ Data
  
 Analyse
 --------
-   -  Accessing fire data through Earth Engine image collection + Explore, plot and map a fire 
+   -  Accessing fire data through Earth Engine image collection + explore, plot and map a fire 
    -  Apply the model to your own fire polygon (In progress)
 
 
