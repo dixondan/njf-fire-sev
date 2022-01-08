@@ -4,7 +4,7 @@ Overview
 --------
 
 This repository is associated with the [open access paper](https://www.google.com "Google's Homepage")
- "Regional-scale fire severity mapping of *Eucalyptus* forests with the Landsat archive" in the journal *Remote Sensing of Environment* by Dan J. Dixon, J. Nikolaus Callow, John M.A. Duncan, Samantha A. Setterfield, and Natasha Paul (2022). 
+ "Regional-scale fire severity mapping of *Eucalyptus* forests with the Landsat archive" in the journal *Remote Sensing of Environment* by Dan Dixon, Nik Callow, John Duncan, Sam Setterfield, and Natasha Paul (2022). 
 
 <p align="center">
   <img src="figs/graph-abs2.png" />
