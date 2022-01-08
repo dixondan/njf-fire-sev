@@ -18,7 +18,7 @@ Here have a gif the same size as the window above showing how to use the ee mapp
 
 We're predicting fire severity from Landsat imagery into the following classes:
 <p align="center">
-  <img src="figs/classes.png" />
+  <img src="figs/classes2.png" />
 </p>
 
 Data
