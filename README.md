@@ -16,6 +16,10 @@ A Google Earth Engine application to visualise predicted fire severity on prescr
 
 Here have a gif the same size as the window above showing how to use the ee mapping tool
 
+We're predicting fire severity from Landsat imagery into the following classes:
+<p align="center">
+  <img src="figs/classes.png" />
+</p>
 
 Data
 --------
