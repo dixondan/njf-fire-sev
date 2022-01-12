@@ -18,12 +18,6 @@ Visualise fire severity
   <img src="figs/app-demo.gif" />
 </p>
 
-
-We're predicting fire severity from Landsat imagery into the following classes:
-<p align="center">
-  <img src="figs/classes2.png" />
-</p>
-
 Data
 --------
   - Download predicted fire severity rasters for each fire at 30 x 30 m resolution
