@@ -14,11 +14,7 @@ Visualise fire severity
 --------
 [A Google Earth Engine application](https://danieljdixon1991.users.earthengine.app/view/njf-fire-sev-app "njf-fire-sev-app") is available to visualise predicted fire severity on prescribed burns and wildfires from 2005 to 2020 in the Northern Jarrah Forest. 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-
-
-
+![Alt Text](figs/app-demo.gif)
 
 We're predicting fire severity from Landsat imagery into the following classes:
 <p align="center">
