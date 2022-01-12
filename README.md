@@ -29,7 +29,7 @@ Data
 Analyse
 --------
    -  Accessing fire data through Earth Engine image collection + explore, plot and map a fire (access_fire_ee.ipynb)
-   -  Quantify the area of each fire severity class by fire type over time (quantify_area.ipynb)
+   -  Quantify the area of each fire severity class by fire type over time (calculate_area.ipynb)
 
 Coming soon
 --------
