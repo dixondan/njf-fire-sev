@@ -10,15 +10,12 @@ This repository is associated with the [open access paper](https://www.google.co
   <img src="figs/graph-abs2.png" />
 </p>
 
-Visualise fire severity
+Earth Engine App: Visualise fire severity
 --------
-[A Google Earth Engine application](https://danieljdixon1991.users.earthengine.app/view/njf-fire-sev-app "njf-fire-sev-app") is available to visualise predicted fire severity on prescribed burns and wildfires from 2005 to 2020 in the Northern Jarrah Forest. 
+[A Google Earth Engine application](https://danieljdixon1991.users.earthengine.app/view/njf-fire-sev-app "njf-fire-sev-app") is available to visualise predicted fire severity on prescribed burns and wildfires from 2005 to 2020 in the Northern Jarrah Forest of Western Australia. 
 
-![Alt Text](figs/app-demo.gif)
-
-We're predicting fire severity from Landsat imagery into the following classes:
 <p align="center">
-  <img src="figs/classes2.png" />
+  <img src="figs/app-demo.gif" />
 </p>
 
 Data
@@ -32,7 +29,7 @@ Data
 Analyse
 --------
    -  Accessing fire data through Earth Engine image collection + explore, plot and map a fire (access_fire_ee.ipynb)
-   -  Quantify the area of each fire severity class by fire type over time (quantify_area.ipynb)
+   -  Quantify the area of each fire severity class by fire type over time (calculate_area.ipynb)
 
 Coming soon
 --------
