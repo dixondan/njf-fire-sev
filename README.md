@@ -22,22 +22,16 @@ Data
 --------
   - Download predicted fire severity rasters for each fire at 30 x 30 m resolution
   - Shapefile to associate each predicted raster and burn perimeter
-  - Tables containing the following:
-    - Train/test fire info -> predictors and response variable for training random forest (CSV)
-    - Dates-of-fire obtained from MODIS (CSV)
+  - Dates-of-fire obtained from MODIS (CSV)
  
 Analyse
 --------
-   -  Accessing fire data through Earth Engine image collection + explore, plot and map a fire (access_fire_ee.ipynb)
-   -  Quantify the area of each fire severity class by fire type over time (calculate_area.ipynb)
-
-Coming soon
---------
-   -  Apply the model to your own fire polygon + export to QGIS
+   -  Calculate the areas of predicted fire severity in Table 3 (calculate_areas_ee.ipynb)
+   -  Compute the severity of the Wooroloo bushfire from 2021 (or any given fire of interest) (predict_my_fire.ipynb)
 
 Cite
 --------
-Link
+Link to paper
 
 Questions
 --------
