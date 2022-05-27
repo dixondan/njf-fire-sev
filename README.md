@@ -40,5 +40,5 @@ Questions
 --------
 Dan J. Dixon
 
-Email: danieldixon@research.uwa.edu.au  
+Email: 1dandixon@gmail.com
 Cooperative Research Centre for Honeybee Products: https://www.crchoneybeeproducts.com/
